@@ -4,8 +4,6 @@
 
 **Computer Vision for Developers, SDAIA Academy: Course Project**
 
-**Team:** NAME 1 · NAME 2 · NAME 3
-
 ## Project
 Recycling plants still sort a lot of waste by hand. This project trains an image classifier that sorts waste photos into 6 material classes: **cardboard, glass, metal, paper, plastic, trash**. A model like this could guide an automatic sorting line.
 
